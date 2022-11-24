@@ -1,0 +1,23 @@
+{
+  "name": "practicenodekyrylyezhov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevhenii3145/practiceNodeKyrylYezhov.git"
+  },
+  "author": "Ugenius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevhenii3145/practiceNodeKyrylYezhov/issues"
+  },
+  "homepage": "https://github.com/Yevhenii3145/practiceNodeKyrylYezhov#readme",
+  "dependencies": {
+    "calc-js": "^2.0.7"
+  }
+}
